@@ -1,7 +1,7 @@
 # Image Colorization
 
 
-In this project, I base myself on the [Deep Koalarization: Image Colorization usingCNNs and Inception-Resnet-v2](https://arxiv.org/pdf/1712.03400.pdf) paper to implement a neural network to colorize black and white images.
+In this project, I base myself on the [Deep Koalarization: Image Colorization using CNNs and Inception-Resnet-v2](https://arxiv.org/pdf/1712.03400.pdf) paper to implement a neural network to colorize black and white images.
 
 It can be found in the Google colab notebook [here](https://colab.research.google.com/drive/1TyucCZk7vnoemL2SM_W9ukVnrWK8YvmD) or as an .ipynb in this repository.
 
